@@ -26,7 +26,7 @@ To deploy this application in your local environment, follow these cosmic comman
 
 ```bash
 # Clone this repository into your dimension
-git clone https://github.com/YOUR-USERNAME/cosmic-todo-app.git
+git clone https://github.com/AARUSHGAUR/cosmic-to-do.git
 
 # Navigate to the project's core
 cd cosmic-todo-app
