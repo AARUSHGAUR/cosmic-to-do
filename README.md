@@ -2,6 +2,12 @@
 
 ## Journey Through Task Management Space
 
+# 🚀 Cosmic Todo App
+
+## Journey Through Task Management Space
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://cosmic-to-do.vercel.app)
+
 Welcome to the Cosmic Todo App, where task management transcends the ordinary and ventures into the celestial! This React-powered application brings a touch of the cosmos to your daily organization, making productivity an interstellar adventure.
 
 ## ✨ Stellar Features
