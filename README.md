@@ -48,7 +48,9 @@ npm start
 
 ## 📸 Cosmic Snapshots
 
-*[Insert screenshots of your application here showing different features and views]*
+Here’s a glimpse of the Cosmic Todo App in action:
+
+![Cosmic UI Preview](assets/cosmic-to-do.jpeg)
 
 ## 👩‍🚀 Join Our Space Program
 
