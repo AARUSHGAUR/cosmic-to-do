@@ -1,4 +1,4 @@
-# 🚀 Cosmic Todo App
+# 🚀 Cosmic Todo Application
 
 ## Journey Through Task Management Space
 
